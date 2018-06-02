@@ -27,8 +27,12 @@ gaps within the game. Along with learning to use the sprite sheet, I also learne
 basic animation skills through switching frames as the game updated.
 
 # Things to Improve
+- Flying enemies as well as ducking
 - Randomness of the cactus spawn (currently swapping between big and small cacti)
 - Allowing more than one cactus on screen without allowing for impossible sequences of cacti
 (ones that would be impossible to jump over and not lose the game)
 - Possible game over and start menu
 - Stylistic UI improvements
+
+# NOTES
+All code is created by me, the spritesheet used was obtained through the chromedino link above
