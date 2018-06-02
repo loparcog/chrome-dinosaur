@@ -8,10 +8,11 @@
 
 # Description
 This code is a rough javascript making of the small mini-game within the
-chrome browser that you can play offline, or can find [here] (https://chromedino.com/ "Chrome Dinosaur Game")!
+chrome browser that you can play offline, or can find [here](https://chromedino.com/ "Chrome Dinosaur Game")!
 The game is controlled by the up arrow to jump, and the goal is to survive
 as long as possible by jumping over cacti coming from your right, which come
-progressively faster as the game progresses.
+progressively faster as the game progresses. Start the game by cloning the repository
+and clicking the dino.html file.
 
 The code is mostly very basic platform jumping for the dinosaur, and some
 random size spawning of the cacti, with the speed of the game increasing up
