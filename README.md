@@ -19,6 +19,9 @@ random size spawning of the cacti, with the speed of the game increasing up
 to a cap to make sure it does not get too hectic. A counter stores your score
 and your high score is saved for as long as the game is open.
 
+# How to Run
+Clone the repository and open dino.html to begin!
+
 # Coding Challenges / Learning
 The main challenge within this program and what I aimed to accomplish was using
 a sprite sheet for images within a game. This proved especially difficult for
